@@ -1,4 +1,4 @@
-# Project Title
+# User Management using JWT Authentication
 
 This is a Kotlin-based web application that uses Ktor for server-side development. The application is designed with a focus on security and user management.
 
